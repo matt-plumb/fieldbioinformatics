@@ -3,6 +3,6 @@ clint
 pandas
 pysam
 pytest
-pyvcf
+pyvcf3
 requests
 tqdm
